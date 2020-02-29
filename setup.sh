@@ -5,6 +5,7 @@ brew upgrade
 
 brew cask install iterm2
 brew cask install visual-studio-code
+brew cask install virtualbox
 
 while read p; do
   brew install $p 
