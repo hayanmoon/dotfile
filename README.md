@@ -1,6 +1,6 @@
 # dotfile
 
-initial setup of a laptop
+initial setup of a mac laptop
 
 ## usage
 
